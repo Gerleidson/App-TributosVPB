@@ -3,13 +3,13 @@
 ![tela](https://github.com/Gerleidson/Projeto_TributosVPB/assets/88213553/6d5c237e-73e9-4ce0-847b-7a0b7a152b50)
 
 
-Este é um aplicativo Android chamado "Meus Tributos" que permite calcular e compartilhar os valores de diferentes tipos de contribuições com base na remuneração e semeadura fornecidas pelo usuário. O aplicativo possui uma interface de usuário simples e intuitiva, e os resultados dos cálculos podem ser compartilhados com outras pessoas.
+Este é um aplicativo Android que permite calcular e compartilhar os valores de diferentes tipos de contribuições com base na remuneração e semeadura fornecidas pelo usuário. O aplicativo possui uma interface de usuário simples e intuitiva, e os resultados dos cálculos podem ser compartilhados com outras pessoas.
 
 ## Funcionalidades
 
 O aplicativo possui as seguintes funcionalidades principais:
 
-- **Cálculo dos Tributos**: O usuário pode inserir o se3u nome, a remuneração e a semeadura nos campos apropriados e clicar no botão "Calcular" para obter os valores dos tributos calculados. Os tributos calculados incluem:
+- **Cálculo dos Tributos**: O usuário pode inserir o seu nome, a remuneração e a semeadura nos campos apropriados e clicar no botão "Calcular" para obter os valores dos tributos calculados. Os tributos calculados incluem:
     - Nome 
     - Primícia
     - Dízimo
