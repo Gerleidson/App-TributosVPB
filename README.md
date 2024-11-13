@@ -1,6 +1,6 @@
-# Tributos_VPB
+# Tributos VPB
 
-![tela](https://github.com/Gerleidson/Projeto_TributosVPB/assets/88213553/6d5c237e-73e9-4ce0-847b-7a0b7a152b50)
+![270498959-6d5c237e-73e9-4ce0-847b-7a0b7a152b50](https://github.com/user-attachments/assets/26166979-6076-43a5-83dc-73dd48bc07e8)
 
 
 Este é um aplicativo Android que permite calcular e compartilhar os valores de diferentes tipos de contribuições com base na remuneração e semeadura fornecidas pelo usuário. O aplicativo possui uma interface de usuário simples e intuitiva, e os resultados dos cálculos podem ser compartilhados com outras pessoas.
